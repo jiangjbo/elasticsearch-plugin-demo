@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/elasticsearch-plugin-demo.iml" filepath="$PROJECT_DIR$/elasticsearch-plugin-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elasticsearch-plugin-main/elasticsearch-plugin-main.iml" filepath="$PROJECT_DIR$/elasticsearch-plugin-main/elasticsearch-plugin-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elasticsearch-plugin-restful-api/elasticsearch-plugin-restful-api.iml" filepath="$PROJECT_DIR$/elasticsearch-plugin-restful-api/elasticsearch-plugin-restful-api.iml" />
+    </modules>
+  </component>
+</project>
