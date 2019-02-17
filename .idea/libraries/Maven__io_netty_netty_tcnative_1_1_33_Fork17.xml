@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.netty:netty-tcnative:1.1.33.Fork17">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-tcnative/1.1.33.Fork17/netty-tcnative-1.1.33.Fork17.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-tcnative/1.1.33.Fork17/netty-tcnative-1.1.33.Fork17-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-tcnative/1.1.33.Fork17/netty-tcnative-1.1.33.Fork17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
